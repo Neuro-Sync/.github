@@ -17,29 +17,31 @@ Welcome to Neuro-Sync,
 🌐 Neuro-Sync's mission is to 
 
 |  Mockups             | 
-| -------                         |
-|   | 
+| -------              |
+|  <img src="https://github.com/Skill-Sync/SkillSync-Backend/blob/master/.github/res/imgs/mockup%20splash%20and%20auth.png" width="1000">  | 
 
 
 ## Features
 | Features                          | Description                                                                                                 |
 |----------------------------------|------------------------------------------------------------------------------------------------------|
-|    |          |
 |    | |
-|       | |
+|    | |
+|    | |
 
 
 
 ## Technologies Used
+- Mobile :
+  
 - Frontend: 
-
-- Mobile (Flutter):
 
 - Backend:
 
 - Database: 
 
-- Hosting: 
+- Hosting:
+  
+-  AI:
 
   
 ## Future Updates
